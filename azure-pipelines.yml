@@ -9,10 +9,10 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '4c8e7db9-7472-409e-8b5a-49c63cab73e1'
+  azureSubscription: '(8d542908-12bc-46b1-b452-3f022699c2e8'
   
   # Web app name
-  webAppName: 'java-spring-boot'
+  webAppName: 'java-springboot-app'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
