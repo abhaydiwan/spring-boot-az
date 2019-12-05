@@ -8,6 +8,6 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Hi from Spring Boot using Azure Pipeline!";
+        return "Hi from Spring Boot!";
     }   
 }
